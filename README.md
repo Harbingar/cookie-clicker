@@ -2,8 +2,7 @@
 
 ## 🔗 LIENS PROJET
 
-- **Projet en ligne :** [https://emignox.github.io/cookie-clicker/ ](https://emignox.github.io/cookie-clicker/ "lien projet cookie-clicker en ligne")
-- **Github :** [https://github.com/emignox/cookie-clicker](https://github.com/emignox/cookie-clicker "lien projet projet Github cookie-clicker")
+- **Projet en ligne :** [https://harbingar.github.io/cookie-clicker/ ](https://harbingar.github.io/cookie-clicker/ "lien projet cookie-clicker en ligne")
 
 ## 📌 FICHE PROJET
 
@@ -12,17 +11,11 @@
 - **Durée :** 5 jours
 - **Deadline :** 30/10/23 à 09h
 
-## 🤜🤛 CREATOR 
-
-- [Emanuele Polizotto](https://github.com/emignox "lien github Emanuele Polizotto")
 
 
 ## 🎯 OBJECTIFS
 
 - Renforcer nos compétences en JavaScript
-- Apprendre à travailler en équipe :
-  - Organisation et repartition du travail
-  - Apprendre à gérer les conflits Git et Gihub
 
 ## ✅ CRITÈRES D'ÉVALUATION
 
